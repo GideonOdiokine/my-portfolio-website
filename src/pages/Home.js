@@ -32,7 +32,6 @@ const Home = () => {
             </span>
           </h1>
           <h4>
-          
             Gidy is a design-minded front-end developer based in Calabar,
             Nigeria.
           </h4>
