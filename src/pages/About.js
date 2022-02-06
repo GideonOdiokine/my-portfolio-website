@@ -1,9 +1,9 @@
-import React,{useEffect} from "react";
+import React, { useEffect } from "react";
 import gidy from "../img/gidy.jpg";
 import "../pages/styles/about.css";
 
 function About() {
-    useEffect(() => {
+  useEffect(() => {
     document.title = "Gidi | About";
   }, []);
 
@@ -24,22 +24,21 @@ function About() {
               </p>
               <h2>
                 Creative Frontend <br />
-     Developer
-                
+                Developer
               </h2>
               <p>
-               Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React, Redux, vue, Javascript.
-
-
+                Experienced Software Engineer with a demonstrated history of
+                working in the information technology and services industry.
+                Skilled in React, Redux, vue, Javascript.
               </p>
-<<<<<<< HEAD
-              <a className="primary_btn mid" href="/">
-=======
-<p>    
 
-When not working on a project or thinking about programming, I'm most likely watching TV series on Netflix, playing tennis, sight-seeing, watching Manchester City play football, or spending time with family and friends  </p>
+              <p>
+                When not working on a project or thinking about programming, I'm
+                most likely watching TV series on Netflix, playing tennis,
+                sight-seeing, watching Manchester City play football, or
+                spending time with family and friends{" "}
+              </p>
               <a className="primary_btn" href="/">
->>>>>>> 454d87c3e520b554667651aa90c1a90d2c07c6b3
                 <span>Download CV</span>
               </a>
             </div>
