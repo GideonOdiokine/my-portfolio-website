@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import gidy from "../img/gidy.jpg";
 import "../pages/styles/about.css";
 
