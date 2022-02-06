@@ -35,7 +35,7 @@ function About() {
               <p>
                 When not working on a project or thinking about programming, I'm
                 most likely watching TV series on Netflix, playing tennis,
-                sight-seeing, watching Manchester City play football, or
+                sight-seeing, watching Manchester United play football, or
                 spending time with family and friends{" "}
               </p>
               <a className="primary_btn" href="/">
