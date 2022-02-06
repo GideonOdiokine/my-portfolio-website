@@ -21,7 +21,7 @@ const Home = () => {
             I am Gideon, a {""}
             <span>
               <Typewriter
-                words={["Developer.", "Programmer.", "Coder."]}
+                words={["Developer.", "Programmer.", "Coder"]}
                 loop={0}
                 cursor
                 cursorStyle="|"
@@ -32,7 +32,7 @@ const Home = () => {
             </span>
           </h1>
           <h4>
-            {" "}
+          
             Gidy is a design-minded front-end developer based in Calabar,
             Nigeria.
           </h4>
@@ -40,7 +40,7 @@ const Home = () => {
             This is my official Portfolio website to showcase all my works
             related to <br /> web development.
           </p>
-          <Link to="/">Downdload CV</Link>
+          <Link to="https://drive.google.com/file/d/18ZgLWOu6ED_AFwgvpbNr24O0I31MfGj_/view?usp=sharing" download>Downdload CV</Link>
         </div>
 
         <div className="social">
