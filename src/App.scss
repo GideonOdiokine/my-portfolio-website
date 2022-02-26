@@ -29,3 +29,15 @@ ul {
   justify-content: space-between;
   align-items: center;
 }
+
+
+@media(max-width:913px) {
+  .flex {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .container {
+    padding: 0 20px;
+  }
+}
