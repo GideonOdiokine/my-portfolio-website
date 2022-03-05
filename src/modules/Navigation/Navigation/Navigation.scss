@@ -28,3 +28,11 @@ header {
         }
     }
 }
+
+@media(max-width:913px) {
+    header {
+        .flex {
+            justify-content: space-between;
+        }
+    }
+}
