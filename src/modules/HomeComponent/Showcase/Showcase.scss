@@ -49,3 +49,12 @@
         }
     }
 }
+
+
+@media(max-width:912px) {
+    .showcase__left {
+        order: 1;
+        text-align: center;
+        padding: 10px 0;
+    }
+}
