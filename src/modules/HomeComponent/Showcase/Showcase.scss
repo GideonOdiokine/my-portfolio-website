@@ -52,9 +52,36 @@
 
 
 @media(max-width:912px) {
-    .showcase__left {
+    .showcase .showcase__left {
         order: 1;
         text-align: center;
-        padding: 10px 0;
+        padding: 10px 0 0 0;
+
+        h2 {
+
+            font-family: 'Heebo';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 40px;
+            /* or 125% */
+
+
+            /* Dark Color */
+
+            color: #21243D;
+        }
+
+        p {
+            font-family: 'Heebo';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+
+            /* Dark Color */
+
+            color: #21243D;
+        }
     }
 }

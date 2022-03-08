@@ -67,3 +67,10 @@
 
 
 }
+
+@media(max-width:419px) {
+    .post .card__container {
+        grid-template-columns: 1fr;
+
+    }
+}
