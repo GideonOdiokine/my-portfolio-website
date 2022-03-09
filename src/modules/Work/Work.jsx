@@ -15,7 +15,7 @@ const Work = () => {
           </div>
           <div className="content">
             <h3>Designing Creditwave</h3>
-            <strong>Dashboard</strong>
+            <strong>Stacks: React, Redux, Sass</strong>
             <p>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
@@ -35,7 +35,7 @@ const Work = () => {
           </div>
           <div className="content">
             <h3>Designing Creditwave</h3>
-            <strong>Dashboard</strong>
+            <strong>Stacks: React, Redux, Sass</strong>
             <p>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
