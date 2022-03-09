@@ -18,9 +18,12 @@
 
     .work__container {
         display: flex;
+        padding-bottom: 40px;
 
         .content {
             padding-left: 18px;
+
+
 
             h3 {
                 font-family: Heebo;
@@ -63,6 +66,22 @@
                 color: #21243D;
 
             }
+
+            a {
+                background: #FF6464;
+                border-radius: 2px;
+                font-family: Heebo;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 20px;
+                color: #FFFFFF;
+                padding: 4px 20px;
+                margin-right: 10px;
+
+
+            }
         }
+
+
     }
 }
