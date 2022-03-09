@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Navigation from "./modules/Navigation/Navigation/Navigation";
+import Footer from "./modules/Footer/Footer";
 import { BrowserRouter as Router } from "react-router-dom";
 import App from "./App";
 
@@ -9,6 +10,7 @@ ReactDOM.render(
     <Router>
       <Navigation />
       <App />
+      <Footer />
     </Router>
   </React.StrictMode>,
   document.getElementById("root")
