@@ -1,11 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Navigation from "./modules/Navigation/Navigation/Navigation";
 import { BrowserRouter as Router } from "react-router-dom";
 import App from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
     <Router>
+      <Navigation />
       <App />
     </Router>
   </React.StrictMode>,

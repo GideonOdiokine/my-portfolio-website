@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    padding: 20px 0;
+
+    .logo {
+        font-size: 28px;
+    }
+
+    nav {
+
+        ul {
+            display: flex;
+            align-items: center;
+
+            li {
+                a {
+                    margin-right: 18px;
+                    font-family: 'Heebo';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 20px;
+                    line-height: 29px;
+                    text-align: right;
+
+                    color: #000000;
+                }
+            }
+        }
+    }
+}
