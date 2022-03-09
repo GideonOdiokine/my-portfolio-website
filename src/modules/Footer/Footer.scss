@@ -1,0 +1,19 @@
+footer {
+    padding: 30px 0 50px 0;
+    // background-color: red;
+
+    .flex {
+        justify-content: center;
+    }
+
+    .social__links {
+        a {
+            padding-left: 22px;
+        }
+    }
+
+    p {
+        text-align: center;
+        padding-top: 20px;
+    }
+}

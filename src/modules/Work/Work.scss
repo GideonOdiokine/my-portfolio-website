@@ -18,7 +18,8 @@
 
     .work__container {
         display: flex;
-        padding-bottom: 40px;
+        padding: 20px 0;
+        border-bottom: 1px solid #ccc;
 
         .img {
             width: 400px;
@@ -74,6 +75,7 @@
                 /* Dark Color */
 
                 color: #21243D;
+                margin-bottom: 5px;
 
             }
 
