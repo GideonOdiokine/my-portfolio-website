@@ -1,0 +1,68 @@
+.work {
+    padding: 10px 0 40px 0;
+
+    h2 {
+        font-family: Heebo;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 60px;
+        /* identical to box height, or 273% */
+        padding: 20px 0;
+
+
+        /* Dark Color */
+
+        color: #21243D;
+    }
+
+    .work__container {
+        display: flex;
+
+        .content {
+            padding-left: 18px;
+
+            h3 {
+                font-family: Heebo;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 30px;
+                line-height: 44px;
+                /* identical to box height */
+
+
+                /* Dark Color */
+
+                color: #21243D;
+            }
+
+            strong {
+                font-family: Heebo;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 20px;
+                line-height: 29px;
+                padding: 10px 0;
+
+                /* Light */
+
+                color: #8695A4;
+            }
+
+            p {
+                font-family: Heebo;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 24px;
+                padding: 10px 0;
+
+
+                /* Dark Color */
+
+                color: #21243D;
+
+            }
+        }
+    }
+}

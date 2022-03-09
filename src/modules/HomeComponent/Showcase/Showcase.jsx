@@ -1,5 +1,5 @@
 import React from "react";
-import picture from "../../assets/img/gidy.png";
+import picture from "../../../assets/img/gidy.png";
 import "./Showcase.scss";
 
 const Showcase = () => {
