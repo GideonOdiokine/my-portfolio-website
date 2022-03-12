@@ -85,3 +85,9 @@
         }
     }
 }
+
+@media(max-width:395px) {
+    .showcase .showcase__left h2 {
+        font-size: 26px;
+    }
+}
