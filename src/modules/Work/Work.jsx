@@ -14,7 +14,7 @@ const Work = () => {
           </div>
           <div className="content">
             <h3>Creditwave Web</h3>
-            <strong>Stacks: React, Redux, Sass</strong>
+            <strong>Stack: React, Redux, Sass</strong>
             <p>
               Creditwave web is a web application built for desktop users so
               they can access Creditwave's services using a browser.
@@ -36,7 +36,7 @@ const Work = () => {
           </div>
           <div className="content">
             <h3>Creditwave Admin Dashboard</h3>
-            <strong>Stacks: React, Redux, Sass</strong>
+            <strong>Stack: React, Redux, Sass</strong>
             <p>
               Creditwave admin is a web application built for Creditwave’s staff
               so they can read, create, update and delete Creditwave’s data.
