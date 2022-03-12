@@ -79,3 +79,15 @@
         }
     }
 }
+
+
+@media(max-width:283px) {
+    .post .card__container .card .time {
+        font-size: 13px;
+    }
+
+    .post .card__container .card h3 {
+        font-size: 18px;
+
+    }
+}
