@@ -1,6 +1,5 @@
 import React from "react";
 import "./Work.scss";
-import rec from "../../assets/img/rec.png";
 import cre from "../../assets/img/creditwave.jpg";
 
 const Work = () => {
@@ -31,7 +30,7 @@ const Work = () => {
         </div>
         <div className="work__container">
           <div className="img">
-            <img src={rec} alt="work_pic" />
+            <img src={cre} alt="work_pic" />
           </div>
           <div className="content">
             <h3>Designing Creditwave</h3>
