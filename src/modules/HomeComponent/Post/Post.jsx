@@ -8,25 +8,34 @@ const Post = () => {
         <h2>Recent posts </h2>
         <div className="card__container">
           <div className="card">
-            <h3>Building my portfolio to showcase my work</h3>
+            <a
+              href="https://dev.to/easybuoy/understanding-the-package-json-file-3fdg"
+              target="__blank"
+            >
+              <h3>Understanding the package.json file</h3>
+            </a>
             <div className="time">
-              <time>12 Feb 2020</time> | <span>React, Sass.</span>
+              <time>12 Feb 2020</time> | <span>#node, #npm, #javascript</span>
             </div>
             <p>
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
-              Exercitation veniam consequat sunt nostrud amet.
+              A package.json is a JSON file that exists at the root of a
+              Javascript/Node project. It holds metadata relevant to the project
+              and it is used for managing the project's dependencies, scripts,
+              version and a whole lot more.
             </p>
           </div>
           <div className="card">
-            <h3>Building my portfolio to showcase my work</h3>
+            <a href="http://gum.co/use-hooks" target="__blank">
+              <h3>Understand how React Hooks work</h3>
+            </a>
             <div className="time">
-              <time>12 Feb 2020</time> | <span>React, Sass.</span>
+              <span>#react, #javascript.</span>
             </div>
             <p>
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
-              Exercitation veniam consequat sunt nostrud amet.
+              React hooks are awesome, but they are not as easy to use as they
+              sound. In my personal experience, with other developers, and in
+              technical interviews, I realized that React developers often
+              stuggle on the same problems.
             </p>
           </div>
         </div>

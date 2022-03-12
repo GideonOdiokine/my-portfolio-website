@@ -13,12 +13,11 @@ const Work = () => {
             <img src={cre} alt="work_pic" />
           </div>
           <div className="content">
-            <h3>Designing Creditwave</h3>
+            <h3>Creditwave Web</h3>
             <strong>Stacks: React, Redux, Sass</strong>
             <p>
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
-              Exercitation veniam consequat sunt nostrud amet.
+              Creditwave web is a web application built for desktop users so
+              they can access Creditwave's services using a browser.
             </p>
             <a href="https://creditwaveng.com" rel="noreferrer">
               <span>view</span>
@@ -30,15 +29,17 @@ const Work = () => {
         </div>
         <div className="work__container">
           <div className="img">
-            <img src={cre} alt="work_pic" />
+            <img
+              src="https://www.ruingwe.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fy0xdnwwh%2Fproduction%2Fc0a2cda47206c68ca165ac41d0e95cbee389c38f-2000x1125.jpg&w=1080&q=75"
+              alt="work_pic"
+            />
           </div>
           <div className="content">
-            <h3>Designing Creditwave</h3>
+            <h3>Creditwave Admin Dashboard</h3>
             <strong>Stacks: React, Redux, Sass</strong>
             <p>
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
-              Exercitation veniam consequat sunt nostrud amet.
+              Creditwave admin is a web application built for Creditwave’s staff
+              so they can read, create, update and delete Creditwave’s data.
             </p>
             <a href="https://creditwaveng.com" rel="noreferrer">
               <span>view</span>
