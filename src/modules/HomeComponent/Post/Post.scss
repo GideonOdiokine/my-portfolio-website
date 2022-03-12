@@ -72,11 +72,14 @@
     .post .card__container {
         grid-template-columns: 1fr;
 
-        .post .card__container .card h3 {
-            font-weight: 700;
-            font-size: 1.17em;
-            line-height: 30px;
-        }
+
+    }
+
+    .post .card__container .card h3 {
+        font-weight: 700;
+        // font-size: 1.17em;
+        line-height: 30px;
+        font-family: cursive;
     }
 }
 
