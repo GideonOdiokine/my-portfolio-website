@@ -16,7 +16,7 @@ const Navigation = () => {
           <nav>
             <ul>
               {navRoutes.map((route) => (
-                <li>
+                <li key={route.path}>
                   <Link to={route.path}>{route.translation}</Link>
                 </li>
               ))}

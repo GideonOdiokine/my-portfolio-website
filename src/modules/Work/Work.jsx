@@ -25,7 +25,7 @@ const Work = () => {
               <span>view</span>
             </a>
             <a href="https://www.github.com/GideonOdiokine" rel="noreferrer">
-              <i class="lni lni-github-original"></i>
+              <i className="lni lni-github-original"></i>
             </a>
           </div>
         </div>
@@ -48,7 +48,7 @@ const Work = () => {
               <span>view</span>
             </a>
             <a href="https://creditwaveng.com" rel="noreferrer">
-              <i class="lni lni-github-original"></i>
+              <i className="lni lni-github-original"></i>
             </a>
           </div>
         </div>
