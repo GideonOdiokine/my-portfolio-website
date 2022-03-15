@@ -1,5 +1,6 @@
 .showcase {
     padding: 120px 0 50px 0;
+    // background: #663399;
 
     .showcase__left {
         h2 {
@@ -13,7 +14,7 @@
 
             /* Dark Color */
 
-            color: #21243D;
+            color: #050930;
         }
 
         p {
@@ -25,7 +26,8 @@
             padding: 30px 0;
             /* Dark Color */
 
-            color: #21243D;
+            color: #050930;
+
         }
 
         a {
@@ -89,5 +91,9 @@
 @media(max-width:395px) {
     .showcase .showcase__left h2 {
         font-size: 26px;
+    }
+
+    .showcase .showcase__left a {
+        font-size: 16px;
     }
 }

@@ -12,7 +12,8 @@
 
         /* Dark Color */
 
-        color: #21243D;
+        color: #040c52;
+
     }
 
     .card__container {
@@ -48,7 +49,8 @@
 
                 /* Dark Color */
 
-                color: #21243D;
+                color: #040c52;
+
             }
 
             p {
@@ -60,7 +62,8 @@
 
                 /* Dark Color */
 
-                color: #21243D;
+                color: #040c52;
+
             }
         }
     }
@@ -79,7 +82,16 @@
         font-weight: 700;
         // font-size: 1.17em;
         line-height: 30px;
-       
+        font-size: 18px;
+
+    }
+
+    .post .card__container .card .time {
+        font-size: 15px;
+    }
+
+    .post .card__container .card p {
+        font-size: 15px;
     }
 }
 

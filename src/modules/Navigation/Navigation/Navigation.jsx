@@ -3,6 +3,7 @@ import "./Navigation.scss";
 import { Link } from "react-router-dom";
 import PATHS from "../../../config/constants/path";
 import { navRoutes } from "../../../config/constants/navRoute";
+import hamburger from "../../../assets/img/menu.png";
 
 const Navigation = () => {
   return (
@@ -21,6 +22,7 @@ const Navigation = () => {
               ))}
             </ul>
           </nav>
+          <img src={hamburger} alt="menu" className="menu" />
         </div>
       </div>
     </header>

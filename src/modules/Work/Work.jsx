@@ -16,13 +16,15 @@ const Work = () => {
             <h3>Creditwave Web</h3>
             <strong>Stack: React, Redux, Sass</strong>
             <p>
-              Creditwave web is a web application built for desktop users so
-              they can access Creditwave's services using a browser.
+              Creditwave web is a digital financial services firm established
+              with the aim of providing quick and easy access to financial
+              services in the retail sector of Nigeria, Africa and other
+              emerging markets.
             </p>
             <a href="https://creditwaveng.com" rel="noreferrer">
               <span>view</span>
             </a>
-            <a href="https://creditwaveng.com" rel="noreferrer">
+            <a href="https://www.github.com/GideonOdiokine" rel="noreferrer">
               <i class="lni lni-github-original"></i>
             </a>
           </div>
@@ -38,8 +40,9 @@ const Work = () => {
             <h3>Creditwave Admin Dashboard</h3>
             <strong>Stack: React, Redux, Sass</strong>
             <p>
-              Creditwave admin is a web application built for Creditwave’s staff
-              so they can read, create, update and delete Creditwave’s data.
+              Creditwave admin is a Fintech web application built for
+              Creditwave’s staff so they can read, create, update and delete
+              Creditwave’s data.
             </p>
             <a href="https://creditwaveng.com" rel="noreferrer">
               <span>view</span>

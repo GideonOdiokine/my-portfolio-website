@@ -22,7 +22,8 @@ header {
                     line-height: 29px;
                     text-align: right;
 
-                    color: #000000;
+                    color: #050930;
+
                 }
             }
         }
@@ -34,9 +35,11 @@ header {
         .flex {
             justify-content: space-between;
         }
+    }
+}
 
-        nav {
-      display: none;
-  }
+@media(max-width:500px) {
+    nav {
+        display: none;
     }
 }
