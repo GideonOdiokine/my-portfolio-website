@@ -71,12 +71,28 @@
 
 }
 
-@media(max-width:419px) {
+@media(max-width:985px) {
+    .post .card__container .card h3 {
+        font-size: 18px;
+    }
+
+    .post .card__container .card .time {
+        font-size: 16px;
+    }
+
+    .post .card__container .card p {
+        font-size: 14px;
+    }
+
     .post .card__container {
         grid-template-columns: 1fr;
 
 
     }
+}
+
+@media(max-width:419px) {
+
 
     .post .card__container .card h3 {
         font-weight: 700;
